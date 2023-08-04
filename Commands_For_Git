@@ -9,3 +9,5 @@ git checkout <branchname>
 git remote -v
 git push
 git pull
+git fetch
+
