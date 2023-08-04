@@ -8,3 +8,4 @@ git checkout <branchname>
 #Adding some more command in my local git
 git remote -v
 git push
+git pull
