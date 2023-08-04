@@ -1,0 +1,5 @@
+#Adding git commands in my github repository
+Git init
+git add <fileNam>
+git status
+git commit -m "write message for the file"
