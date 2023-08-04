@@ -5,3 +5,6 @@ git status
 git commit -m "write message for the file"
 git checkout -b <Branch name which you want create>
 git checkout <branchname>
+#Adding some more command in my local git
+git remote -v
+git push
